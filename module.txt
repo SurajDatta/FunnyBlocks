@@ -1,7 +1,7 @@
 {
 	"id" : "FunnyBlocks",
-	"version" : "0.1.1-SNAPSHOT",
-	"author" : "A'nW, DarkKeks",
+	"version" : "0.2.0-SNAPSHOT",
+	"author" : "A'nW, BenjaminAmos, DarkKeks, ElBatanony",
 	"displayName" : "Funny Blocks",
 	"description" : "A module adding funny/random goofy blocks just because they are awesome!",
     "dependencies" : [
